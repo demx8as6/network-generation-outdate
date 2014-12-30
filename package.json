@@ -1,0 +1,25 @@
+{
+  "author": "https://github.com/demx8as6/network-generation/graphs/contributors",
+  "name": "network-generation",
+  "description": "Small node application to generate a telecommunication network in json format.",
+  "version": "0.1.0",
+  "homepage": "http://martin.skorupski.de/network-generation/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demx8as6/network-generation"
+  },
+  "keywords": [
+    "network",
+    "generation",
+    "test"
+  ],
+  "license": "Apache License 2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "main": "dist/network-generation"
+}

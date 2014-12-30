@@ -15,8 +15,12 @@
   ],
   "license": "AFL-2.0",
   "dependencies": {
+    "geo-calculator": "^0.1.0"
   },
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-uglify": "^0.7.0"
   },
   "bugs": {
     "url": "https://github.com/demx8as6/network-generation/issues"

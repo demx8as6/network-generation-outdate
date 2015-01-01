@@ -15,7 +15,8 @@
   ],
   "license": "AFL-2.0",
   "dependencies": {
-    "geo-calculator": "^0.1.0"
+    "geo-calculator": "^0.1.0",
+    "png.js": "*"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
